@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://vxezestudio.online/api/scripts/script_exW7MSiAxDL8d/raw"))()
+loadstring(game:HttpGet("https://vxezestudio.online/api/scripts/script_4D8Ov4r0PO19g/raw"))()
